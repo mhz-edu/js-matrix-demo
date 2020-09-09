@@ -1,0 +1,13 @@
+body {
+    background: rgb(10, 10, 10);
+}
+
+.line {
+    font-family: monospace;
+    font-size: x-large;
+    color: rgb(5, 189, 5);
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    transform: scale(-1, 1);
+    position: absolute;
+}
